@@ -3,10 +3,15 @@
 Este projeto consiste na implementação de um sistema de semáforo inteligente que permite a travessia segura de pedestres por meio de um botão de pressão. O objetivo é tornar o trânsito mais eficiente e seguro, priorizando a passagem de veículos, mas garantindo a travessia quando solicitada.
 
 🔧 Tecnologias Utilizadas
+
 • Arduino UNO
+
 • LEDs (vermelho, amarelo e verde para veículos e pedestres)
+
 • Botão de pressão
+
 • Resistores
+
 • Protoboard e jumpers
 
 ⚙️ Funcionamento
